@@ -1,0 +1,12 @@
+song = 10
+print(3 + song)
+print("What a lucky number")
+input("Pick a Number: ")
+input("A lovely number, that one")
+noun = input("Enter a noun: ")
+verb = input("Enter a second-person singular verb: ")
+adjective = input("Enter an adjective: ")
+print("Your favorite thing in the world is a " + noun)
+print("It is such a " + adjective + " thing,")
+print("You love to " + verb + " with your " + noun)
+print("It's your favorite thing in the world.")
